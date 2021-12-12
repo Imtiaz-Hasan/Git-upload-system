@@ -1,0 +1,33 @@
+
+FILE ADD:
+git init
+git remote add origin      repository link
+git config --global user.email "mail"
+git config --global user.name "github name"
+git add .
+git commit -m "update"
+git push -u origin master
+
+
+UPDATE: 
+git add .
+git commit -m "update"
+git push -u origin master
+
+
+ALL DELETE:
+git rm -r L
+
+DELETE:
+git rm -r /L ab 1/
+
+git add .
+git commit -m "lab 1 lab 2 deleted"
+git push -u origin master
+
+PAGE CLEAR:
+clear
+
+SHOW ALL:
+git status
+
